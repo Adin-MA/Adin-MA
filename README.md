@@ -1,27 +1,13 @@
-<div align="center">
+# ~/Mustafa_Adinata
 
-# 01000001 01100100 01101001 01101110
-
-```txt
-[ SYSTEM BOOT SUCCESS ]
-> User: Adin
-> Status: Online
-> Role: Computer Science Student
-> Focus: Cybersecurity & Self Improvement
-```
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Linux+Learner;Trying+to+build+cool+stuff;Running+on+caffeine+and+curiosity" />
-
-</div>
-
----
+Computer Science student running on curiosity and caffeine
 
 ## 🧩 whoami
 
 ```bash
 $ whoami
 
-Adin
+Mustafa Adinata
 Computer Science student from Indonesia.
 Interested in cybersecurity, systems, networking,
 and anything that makes computers do weird things.
@@ -29,26 +15,20 @@ and anything that makes computers do weird things.
 
 ---
 
-## ⚙️ currently_learning.sh
+## ⚙️ tech_stack.sh
 
 ```python
 skills = {
-    "web": ["HTML", "CSS", "JavaScript", "Python", "Java"],
+    "languages": ["Python", "Java", "JavaScript"],
     "systems": ["Linux", "Networking"],
     "interests": ["Cybersecurity", "Backend", "Automation"]
 }
 ```
 
----
-
 ## 📈 github.exe
-
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adin-MA&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adin-MA&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adin-MA&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adin-MA&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 </div>
 
 ---
@@ -73,8 +53,16 @@ than actually using Linux.
 
 ---
 
-<div align="center">
+## 🌐 contact_me.sh
 
+- GitHub: [@Adin-MA](https://github.com/Adin-MA)
+- LinkedIn: [@Mustafa Adinata](https://www.linkedin.com/in/mustafa-adinata-05221a333/)
+
+---
+
+<div align="center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Linux+Learner;Trying+to+build+cool+stuff;Running+on+caffeine+and+curiosity" />
+    
 ```bash
 > stay curious.
 ```
