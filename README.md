@@ -61,7 +61,7 @@ than actually using Linux.
 ---
 
 <div align="center">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Linux+Learner;Trying+to+build+cool+stuff;Running+on+caffeine+and+curiosity" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=27EEF5&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Linux+Learner;Trying+to+build+cool+stuff;Running+on+caffeine+and+curiosity" />
     
 ```bash
 > stay curious.
