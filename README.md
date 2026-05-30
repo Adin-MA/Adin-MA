@@ -30,6 +30,7 @@ skills = {
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=Adin-MA&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9&icon_color=38bdf8&border_color=1e293b"/>
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Adin-MA&layout=compact&bg_color=0d1117&title_color=7dd3fc&text_color=c9d1d9&border_color=1e293b"/>
 </div>
+
 ---
 
 ## 🧠 daily_status.log
